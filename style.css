@@ -1,0 +1,50 @@
+.navbar{
+    background-color: #3781d1;
+    color: white;
+}
+.navbar a{
+    color: #80bdff;
+}
+#active{
+    color: #ffffff;
+}
+
+.bi-camera{
+    text-align: center;
+    padding-top: 0px;
+}
+.album{
+    text-align: center;
+    margin-top: 25px;
+}
+.album .btn{
+    width: auto;
+    margin-top: 15px;
+}
+.cards{
+    background-color: #b3c2c4;
+}
+.maincard{
+    padding-top: 15px;
+    margin: 0px 120px 0px;
+}
+.maincard img{
+    margin: 4px;
+    width: 97%;
+}
+.card{
+    margin: 10px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 80%;
+    padding: 10px;
+    height: 50px;
+}
+img{
+    width: 100px;
+    height: 180px;
+}
